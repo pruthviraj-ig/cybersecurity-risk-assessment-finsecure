@@ -91,7 +91,7 @@ This project is based on a fictional organisation and is intended for educationa
 ## Author
 
 **Pruthviraj Patil**
-junior GRC Analyst | Cybersecurity Graduate
+Junior GRC Analyst | Cybersecurity Graduate
 
 ---
 
